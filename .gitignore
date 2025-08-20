@@ -1,0 +1,8 @@
+.env
+
+csv-to-import/*
+!csv-to-import/.gitkeep
+
+insert_copia_e_cola.sql
+
+node_modules/
